@@ -10,7 +10,7 @@ print("pow(2, 3)->" , pow(2, 3))
 print("chr(97)->", chr(97)) # 아스키 코드값이 97인 문자 -> a
 print(pow(2, 3))
 print("max('python')->", max("python"))
-a = [1,2,3]
+a = [1,       2,3                ]
 print(type(a))
 print(len((a)))
 print(type(str(a)))
